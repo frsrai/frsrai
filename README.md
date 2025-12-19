@@ -1,5 +1,5 @@
 <!-- ================= PROFILE HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Faris</h1>
+<h1 align="center">Hi 👋, I'm Faris Rai</h1>
 <h3 align="center">Backend Engineer</h3>
 
 <p align="center">
