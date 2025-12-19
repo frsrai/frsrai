@@ -10,10 +10,13 @@
 
 ## 🧑‍💻 About Me
 
-Backend Engineer with solid experience building backend systems across multiple stacks.  
-I focus on **API design, system reliability, and clean architecture**, with hands-on experience in real production environments.
+Backend Engineer who enjoys building production-ready systems that are reliable, scalable, and easy to maintain over time ⚙️
 
-Comfortable working with real-world constraints such as **performance, scalability, data consistency, and maintainability**, both in monolith and service-based architectures.
+I focus on API design, system reliability, and clean architecture, and I’m comfortable working close to real-world constraints—such as performance limits, scalability trade-offs, data consistency, and long-term maintainability. I care not only about making things work, but about making them work well in production.
+
+I’ve worked with both monolithic and service-based architectures, and I enjoy understanding the bigger picture of how systems interact, scale, and evolve 🧩 I value clear abstractions, thoughtful trade-offs, and code that teams can confidently build upon.
+
+Beyond writing code, I enjoy collaborating with others, learning from real production challenges, and continuously improving how systems are designed and operated 🤝
 
 ---
 
