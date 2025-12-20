@@ -14,13 +14,15 @@ Backend Engineer who enjoys building production-ready systems that are reliable,
 
 I focus on API design, system reliability, and clean architecture, and I’m comfortable working close to real-world constraints—such as performance limits, scalability trade-offs, data consistency, and long-term maintainability. I care not only about making things work, but about making them work well in production.
 
-I’ve worked with both monolithic and service-based architectures, and I enjoy understanding the bigger picture of how systems interact, scale, and evolve 🧩 I value clear abstractions, thoughtful trade-offs, and code that teams can confidently build upon.
+I’ve worked with both monolithic and service-based architectures, and I enjoy understanding the bigger picture of how systems interact, scale, and evolve 🧩  
+I value clear abstractions, thoughtful trade-offs, and code that teams can confidently build upon.
 
 Beyond writing code, I enjoy collaborating with others, learning from real production challenges, and continuously improving how systems are designed and operated 🤝
 
 ---
 
 ## 🧠 What I Do
+
 - Design & build **REST and gRPC APIs**
 - Implement **authentication & authorization** (JWT, RBAC)
 - Handle **database design, transactions, and data integrity**
@@ -34,65 +36,61 @@ Beyond writing code, I enjoy collaborating with others, learning from real produ
 ## 🛠 Tech Stack
 
 ### 🚀 Backend Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### 🔌 APIs & Communication
-<p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAPI_Swagger-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
-</p>
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_Swagger-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+---
 
 ### 🗄 Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
+---
 
 ### ⚡ Cache, Queue & Streaming
-<p>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-</p>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
 
 ### 🌐 API Gateway & Networking
-<p>
-  <img src="https://img.shields.io/badge/Kong_API_Gateway-003459?style=flat-square&logo=kong&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-</p>
+![Kong](https://img.shields.io/badge/Kong_API_Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
 
 ### ⚙️ DevOps & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📂 Projects & Portfolio
 
 Most of my repositories focus on **backend systems**, including:
-- Authentication & authorization services
-- Business-driven REST APIs
-- Background workers & job queues
-- Event-driven & message-based systems
-- Caching, rate limiting & performance optimization
-- Microservices & service-to-service communication
+
+- Authentication & authorization services  
+- Business-driven REST APIs  
+- Background workers & job queues  
+- Event-driven & message-based systems  
+- Caching, rate limiting & performance optimization  
+- Microservices & service-to-service communication  
 
 Each project includes **clear documentation**, **architecture decisions**, and **Docker-based local setup**.
 
@@ -104,13 +102,13 @@ Each project includes **clear documentation**, **architecture decisions**, and *
 
 <p>
   <a href="https://github.com/frsrai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:farisrai.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/faris-rai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -121,7 +119,7 @@ Each project includes **clear documentation**, **architecture decisions**, and *
 <h2 align="center">🚀 Backend Experience</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_Experience-4%2B_Years-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend_Experience-4%2B_Years-success?style=for-the-badge"/>
 </p>
 
 <p align="center">
